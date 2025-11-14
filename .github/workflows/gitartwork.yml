@@ -1,0 +1,26 @@
+name: Generate Git Artwork
+
+on:
+  push:
+  schedule:
+    - cron: '0 */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate artwork
+        uses: jasineri/gitartwork@v1
+        with:
+          user_name: nikhiilraj
+          text: NIKHIL
+
+      - name: Push generated SVG
+        uses: jasineri/simple-push-action@v1
