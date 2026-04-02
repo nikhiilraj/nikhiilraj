@@ -76,7 +76,7 @@ PostgreSQL  ·  WebSockets  ·  REST  ·  GSAP
 <br/>
 
 *available for the right opportunity.*  
-*open to SDE internships — 2025 · 2026*
+*open to SDE internships — 2026 · 2027*
 
 <br/><br/>
 
