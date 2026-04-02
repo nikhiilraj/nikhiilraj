@@ -57,7 +57,7 @@ PostgreSQL  ·  WebSockets  ·  REST  ·  GSAP
 
 &nbsp;
 
-[![portfolio](https://img.shields.io/badge/nikhilrajdev.vercel.app-111111?style=flat-square&logo=vercel&logoColor=e6a93e&labelColor=111111&color=111111)](https://nikhilrajdev.vercel.app)
+[![portfolio](https://img.shields.io/badge/withnikhil.com-111111?style=flat-square&logo=vercel&logoColor=e6a93e&labelColor=111111&color=111111)](https://withnikhil.com)
 &nbsp;
 [![linkedin](https://img.shields.io/badge/linkedin-111111?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=111111&color=111111)](https://www.linkedin.com/in/nikhilraj-dev/)
 &nbsp;
