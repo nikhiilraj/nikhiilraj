@@ -1,28 +1,20 @@
 <div align="center">
+  <img src="./banner.svg" alt="Nikhil Raj" width="100%"/>
+</div>
 
 <br/>
 
-```
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░                                             ░
- ░        N I K H I L   R A J                 ░
- ░        software engineer                   ░
- ░        iiit nagpur  ·  india               ░
- ░                                             ░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-<br/>
+<div align="center">
 
 *i don't build features. i build systems that make features irrelevant.*
+
+</div>
 
 <br/>
 
 ---
 
 <br/>
-
-</div>
 
 most engineers optimize for output.  
 i optimize for the space between the output and the problem.
@@ -45,33 +37,35 @@ not the chatbot kind. the *what happens when the model needs to reason across st
 <div align="center">
 
 ```
-TypeScript  ·  Node.js  ·  Python  ·  React
-PostgreSQL  ·  WebSockets  ·  REST  ·  C++
+TypeScript  ·  Node.js  ·  Python  ·  React  ·  C++
+PostgreSQL  ·  WebSockets  ·  REST  ·  GSAP
 
-→ exploring    LLM orchestration  ·  agentic pipelines  ·  vector retrieval
+→  exploring    LLM orchestration  ·  agentic pipelines  ·  vector retrieval
 ```
+
+</div>
 
 <br/>
 
 ---
 
 <br/>
+
+<div align="center">
 
 **find me**
 
-[![portfolio](https://img.shields.io/badge/withnikhil.com-000000?style=flat-square&color=111111&labelColor=111111&logo=vercel&logoColor=e6a93e)](https://withnikhil.com)
 &nbsp;
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=flat-square&color=111111&labelColor=111111&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nikhilraj-dev/)
+
+[![portfolio](https://img.shields.io/badge/nikhilrajdev.vercel.app-111111?style=flat-square&logo=vercel&logoColor=e6a93e&labelColor=111111&color=111111)](https://nikhilrajdev.vercel.app)
 &nbsp;
-[![x](https://img.shields.io/badge/@nikhilraj__-000000?style=flat-square&color=111111&labelColor=111111&logo=x&logoColor=white)](https://twitter.com/nikhilraj__)
+[![linkedin](https://img.shields.io/badge/linkedin-111111?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=111111&color=111111)](https://www.linkedin.com/in/nikhilraj-dev/)
 &nbsp;
-[![mail](https://img.shields.io/badge/email-000000?style=flat-square&color=111111&labelColor=111111&logo=gmail&logoColor=EA4335)](mailto:nikhil4rajj@gmail.com)
+[![x](https://img.shields.io/badge/@nikhilraj__-111111?style=flat-square&logo=x&logoColor=white&labelColor=111111&color=111111)](https://twitter.com/nikhilraj__)
+&nbsp;
+[![mail](https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=111111&color=111111)](mailto:nikhil4rajj@gmail.com)
 
-<br/>
-
----
-
-<br/>
+<br/><br/>
 
 [![streak](https://streak-stats.demolab.com?user=nikhiilraj&theme=dark&hide_border=true&background=0D1117&stroke=1a1a1a&ring=e6a93e&fire=e6a93e&currStreakLabel=e6a93e&sideLabels=555555&dates=444444)](https://github.com/nikhiilraj)
 
